@@ -8,8 +8,12 @@ A Sparki robot, Leo's adventure.
 1. A [Sparki](http://arcbotics.com/products/sparki/) robot ![Sparki Face](images/sparki.png)
 1. [SparkiDuino](http://arcbotics.com/products/sparki/start/)
 
-## Story 1
+## Introduction
+
+
+
+## Episode 1
 
 The first stage.
 
-![Story 1 field](images/story1-field.png)
+![Episode 1 field](images/episode1-field.png)
